@@ -1,2 +1,3 @@
 # Designweb
-File Tugas Web Design - Jimmy Khuang
+File Tugas Web Design<br>
+- Jimmy Khuang, S.Kom., M.TI.
