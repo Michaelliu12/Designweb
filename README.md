@@ -1,3 +1,3 @@
 # Designweb
-File Tugas Web Design<br>
-- Jimmy Khuang, S.Kom., M.TI.
+Design Web Assignment File<br>
+Guided by Jimmy Khuang, S.Kom., M.TI.
