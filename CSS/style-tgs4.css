@@ -25,10 +25,10 @@ body{
 .header .navigation li a{
     text-decoration: none;
 }
+.header .navigation li a:hover{
+    color: crimson;
+}
 .containerbody{
     width: 70%;
     padding-left: 15%;
 }
-/* .contoh2 p {
-    background-color: darkviolet;
-} */

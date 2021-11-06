@@ -1,0 +1,70 @@
+@font-face {
+    font-family: bebasneue;
+    src: url('../font/BebasNeue-Regular.ttf');
+}
+body{
+    margin: 0;
+}
+.container{
+    margin: auto;
+    width: 75%;
+    overflow: hidden;
+}
+.containerbody{
+    margin: auto;
+    width: 68%;
+    overflow: hidden;
+    font-family: Lobster;
+}
+.header{
+    width: 100%;
+    background: gainsboro;
+    overflow: hidden;
+    height: 150px;
+    background: linear-gradient(to bottom, rgba(7, 10, 207, 0.445),rgb(252, 252, 252));
+}
+.header .logo{
+    float: left;
+    font-size: 40px;
+    font-family: bebasneue;
+}
+.header .navigation{
+    float: right;
+    margin-top: 50px;
+    font-family: bebasneue;
+}
+.header .navigation li{
+    float: right;
+    display: block;
+    margin-left: 20px;
+}
+.header .navigation li a{
+    text-decoration: none;
+    color: rgb(41, 41, 41);
+}
+.header .navigation li a:hover{
+    color: crimson;
+    text-decoration: underline;
+}
+/* .header .navigation li a:visited{
+    color: rgb(0, 121, 219);
+} */
+.navigation .current{
+    font-size: large;
+    text-decoration: underline;
+}
+.navigation .current a{
+    color:royalblue;
+}
+.parent{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.icon-gambar{
+    width: 300px;
+    height: 300px;
+    background-image: url('../Image/IBBI-LOGO.png');
+    border: solid 1px;
+    border-radius: 50%;
+    background-size: cover;
+}
